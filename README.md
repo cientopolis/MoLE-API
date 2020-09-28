@@ -1,5 +1,5 @@
 # Resuelvo_Explorando_API
-API pensada para funcionar con [Resuelvo explorando web](https://github.com/pedroodb/resuelvo_explorando_web) y [Resuelvo explorando móvil](https://github.com/pedroodb/resuelvo_explorando)
+API pensada para funcionar con [Resuelvo explorando web](https://github.com/cientopolis/MOLE-Authoring-Tool) y [Resuelvo explorando móvil](https://github.com/cientopolis/MOLE-mobile-app)
 
 
 Para instalar: Requiere [MongoDB](https://docs.mongodb.com/manual/installation/) y [NodeJS](https://nodejs.org/en/) <br/>
